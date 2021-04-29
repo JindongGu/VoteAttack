@@ -19,7 +19,7 @@ Training the capsNet on cifar10 dataset
 python main.py  --dataset cifar10  --model capsnet 
 ```
 
-Please consider citing our paper
+Please consider citing our paper:
 ```
 @inproceedings{gu2021effective,
 title={Effective and Efficient Vote Attack on Capsule Networks},
