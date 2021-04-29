@@ -1,6 +1,6 @@
 # VoteAttack on Capsule Network
 
-## This is a PyTorch implementation of the paper <br /> "Effective and Efficient Vote Attack on Capsule Networks" [ICLR 2021]
+## This is a PyTorch implementation of the paper "Effective and Efficient Vote Attack on Capsule Networks" [ICLR 2021]
 
 ### Evaluating the robustness of the model
 
