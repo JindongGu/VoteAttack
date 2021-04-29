@@ -8,7 +8,7 @@ Evaluating the pre-trained model with different attack methods
 ```
 python main.py  --evaluate --dataset cifar10  --eps 0.031  --model capsnet  --attack vote_attack_FGSM
 ```
-dataset: cifar10 (with eps=0.031), svhn (with eps=0.47) <br />
+dataset: cifar10 (with eps=0.031), svhn (with eps=0.047) <br />
 model: capsnet, resnet <br />
 attack: FGSM, PGD, vote_attack_FGSM, vote_attack_PGD
 
