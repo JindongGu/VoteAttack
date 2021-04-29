@@ -10,7 +10,7 @@ python main.py  --evaluate --dataset cifar10  --eps 0.031  --model capsnet  --at
 ```
 dataset: cifar10, svhn <br />
 model: capsnet, resnet <br />
-attack: FGSM, PGD, vote_attack_FGSM, vote_attack_PGD
+attack: FGSM, PGD, vote_attack_FGSM, vote_attack_PGD <br />
 **Note:** apply eps=0.031 on cifar10 and eps=0.047 on cifar10 
 
 ### Training the model
