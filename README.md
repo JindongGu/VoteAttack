@@ -1,6 +1,6 @@
 # VoteAttack on Capsule Network
 
-## This is a PyTorch implementation of the paper "Effective and Efficient Vote Attack on Capsule Networks" [ICLR 2021]
+## This is a PyTorch implementation of the paper <br /> ["Effective and Efficient Vote Attack on Capsule Networks"](https://openreview.net/pdf?id=33rtZ4Sjwjn) [ICLR 2021]
 
 ### Evaluating the robustness of the model
 
@@ -16,6 +16,16 @@ attack: FGSM, PGD, vote_attack_FGSM, vote_attack_PGD
 Training the capsNet on cifar10 dataset
 ```
 python main.py  --dataset cifar10  --model capsnet 
+```
+
+Please consider citing our paper
+```
+@inproceedings{gu2021effective,
+title={Effective and Efficient Vote Attack on Capsule Networks},
+author={Jindong Gu and Baoyuan Wu and Volker Tresp},
+booktitle={International Conference on Learning Representations (ICLR)},
+year={2021},
+}
 ```
 
 Contact: jindong.gu@outlook.com
