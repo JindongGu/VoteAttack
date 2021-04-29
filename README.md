@@ -1,6 +1,6 @@
 # VoteAttack on Capsule Network
 
-## This is a PyTorch implementation of the paper <br /> "[Effective and Efficient Vote Attack on Capsule Networks](https://openreview.net/pdf?id=33rtZ4Sjwjn)" [ICLR 2021]
+## This is a PyTorch implementation of the paper <br /> "Effective and Efficient Vote Attack on Capsule Networks" [ICLR 2021]
 
 ### Evaluating the robustness of the model
 
@@ -23,8 +23,9 @@ Please consider citing our paper
 @inproceedings{gu2021effective,
 title={Effective and Efficient Vote Attack on Capsule Networks},
 author={Jindong Gu and Baoyuan Wu and Volker Tresp},
-booktitle={International Conference on Learning Representations (ICLR)},
+booktitle={International Conference on Learning Representations},
 year={2021},
+url={https://openreview.net/forum?id=33rtZ4Sjwjn}
 }
 ```
 
